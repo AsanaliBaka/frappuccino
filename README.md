@@ -113,7 +113,3 @@ Add a new inventory item.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-This project has been created by:
-
-- Zhaxylykov Azamat, ***"kazakh painter"***
-- Baltashov Assanali, ***"Sosal?"***
